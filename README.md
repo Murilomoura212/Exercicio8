@@ -1,2 +1,3 @@
 # Exercicio8
-Solicite um número ao usuário, se o número for maior que 10, mostre a sua metade.
+Faça um programa em JAVA que solicite 2 números inteiros e efetue
+a adição; caso o resultado seja maior que 10, apresentá-lo:
